@@ -1,0 +1,1988 @@
+{
+  "company": {
+    "name": "evernever house",
+    "tagline": "Present your story on Your way",
+    "intro": "When you are deeply in love and truly passionate about someone or something, You can make everything It’s happening and provocative things that may seem unsual to other people’s standards — all in one view. Because we are one stop service in entertainment media.",
+    "invitation": "Let’s start with us and work towards our goals together.",
+    "aboutHeading": "we are 360 Service Supports",
+    "about": "All we do is Entertainment, Consult, Creative Design Digital Content, Online clips, Production, Music Video live Streaming, Influencer, Media, Online / Offline media Event Organizer, Artist Entertainment, etc.",
+    "thaiDescription": "เอเจนซี่ service support ที่บริการดูแลเพิ่มยอดขายให้กับธุรกิจ พร้อมผลิตสื่อโฆษณาทุกชนิดอย่างครบวงจร",
+    "legalName": "บริษัท เอเวอร์เนเวอร์ จำกัด",
+    "address": "61 ถนนหทัยราษฎร์ แขวงมีนบุรี เขตมีนบุรี กรุงเทพฯ 10510",
+    "hours": "จันทร์ – ศุกร์ เวลา 10.00 – 18.00 น.",
+    "email": "hello@evernever.net",
+    "phones": [
+      "095-246-8978",
+      "065-529-9645"
+    ],
+    "logo": "/evernever/symbol.png",
+    "aboutImage": "/evernever/about.png",
+    "clientsImage": "/evernever/clients.png"
+  },
+  "services": [
+    {
+      "title": "Marketing Consulting",
+      "description": "we provide in-depth marketing strategy consulting. we analyze your market, competitors, and target audience to develop a strategy tailored to your business.",
+      "image": "/evernever/service-0.png",
+      "id": "service-0"
+    },
+    {
+      "title": "Social Media Marketing",
+      "description": "Increase sales and engagement on social media. manage your social media accounts, create engaging content, analyze results, and optimize your strategy.",
+      "image": "/evernever/service-1.png",
+      "id": "service-1"
+    },
+    {
+      "title": "Influencer Marketing",
+      "description": "collaborate with the right influencers. Attract new customers, increase brand awareness, and drive sales.",
+      "image": "/evernever/service-2.png",
+      "id": "service-2"
+    },
+    {
+      "title": "Content Marketing",
+      "description": "create informative and engaging content. attract new customers, build relationships with existing customers, and promote your brand.",
+      "image": "/evernever/service-3.png",
+      "id": "service-3"
+    },
+    {
+      "title": "Event Organize",
+      "description": "organize memorable events. attract attendees, promote your brand, and drive sales.",
+      "image": "/evernever/service-4.png",
+      "id": "service-4"
+    },
+    {
+      "title": "Online & Offline Advertising",
+      "description": "plan and execute online and offline advertising campaigns. choose the right channels for your target audience. track results and optimize your strategy.",
+      "image": "/evernever/service-5.png",
+      "id": "service-5"
+    },
+    {
+      "title": "Music Video",
+      "description": "create captivating music videos. communicate your brand story, evoke emotions, and build brand recall.",
+      "image": "/evernever/service-6.png",
+      "id": "service-6"
+    },
+    {
+      "title": "Design & Branding",
+      "description": "design logos, websites, and print materials. create a strong brand identity that attracts customers.",
+      "image": "/evernever/service-7.png",
+      "id": "service-7"
+    },
+    {
+      "title": "TVC Advertising",
+      "description": "produce engaging tv commercials. attract viewers, promote your brand, and drive sales.",
+      "image": "/evernever/service-8.png",
+      "id": "service-8"
+    },
+    {
+      "title": "Google Advertising",
+      "description": "manage google advertising campaigns. choose the right keywords, target your audience, track results, and optimize your strategy.",
+      "image": "/evernever/service-9.png",
+      "id": "service-9"
+    },
+    {
+      "title": "SEO",
+      "description": "optimize your website to rank higher on google search engine results pages. increase organic traffic, attract new customers, and boost sales.",
+      "image": "/evernever/service-10.png",
+      "id": "service-10"
+    },
+    {
+      "title": "Web Deverlopment",
+      "description": "develop user-friendly, visually appealing, responsive websites that meet your business needs.",
+      "image": "/evernever/service-11.png",
+      "id": "service-11"
+    }
+  ],
+  "projects": [
+    {
+      "_id": "2677",
+      "title": "DIOR – Ally Nitibhon",
+      "slug": {
+        "current": "dior"
+      },
+      "category": "online-advertising",
+      "categories": [
+        "online-advertising"
+      ],
+      "categoryLabels": [
+        "Online Advertising"
+      ],
+      "coverImage": "/evernever/work-2677.jpg",
+      "gallery": [],
+      "videoUrl": "https://drive.google.com/file/d/1RuFKypOo5omSL8b5oilJJmACi5vNVu1H/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/1RuFKypOo5omSL8b5oilJJmACi5vNVu1H/preview"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/08/27/dior/",
+      "featured": true
+    },
+    {
+      "_id": "1353",
+      "title": "The masterpiece Of Gulf by Sulwhasoo",
+      "slug": {
+        "current": "the-masterpiece-of-gulf-by-sulwhasoo"
+      },
+      "category": "influencer-marketing",
+      "categories": [
+        "influencer-marketing",
+        "content-marketing",
+        "design-branding",
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Influencer Marketing",
+        "Content Marketing",
+        "Design & Branding",
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-1353.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/03/FT07ff-XwAEkF_P-683x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/FT1L1TtUsAA07pu-683x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/slide.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Cover-1.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-5-min-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-2-min-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-3-min-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-4-min-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-1-copy.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-1-copy-3.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-1-copy-4.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-1-copy-2.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Standyd-522x1024.jpg",
+        "https://evernever.net/wp-content/uploads/elementor/thumbs/Cover4-1-qlu3ti6h8qknj4w0vwkqvh45yqbf8a1724x6rxkpv4.png"
+      ],
+      "videoUrl": "https://drive.google.com/file/d/1ziZVzeCMWKReZG0qYnupd28s5WAXOgrm/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/1ziZVzeCMWKReZG0qYnupd28s5WAXOgrm/preview"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "Sulwhasoo : The Masterpiece of Gulf"
+        },
+        {
+          "kind": "paragraph",
+          "text": "GULF Fan Meeting Event: A Success Story We are thrilled to share our success in organizing the GULF Fan Meeting Event, an exclusive event for lucky Sulwhasoo customers. It was an honor for us to be a part of this event and to contribute to making it a memorable experience for all attendees."
+        },
+        {
+          "kind": "heading",
+          "text": "The Challenge"
+        },
+        {
+          "kind": "paragraph",
+          "text": "The GULF Fan Meeting Event presented several challenges :"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Limited budget : The team had to work smart to maximize the use of limited resources."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Tight deadline : The team had to work quickly and efficiently to meet the deadline."
+        },
+        {
+          "kind": "paragraph",
+          "text": "However, thanks to the company’s professionalism :"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Careful planning : The team carefully planned and strategized to make the most of the available resources."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Teamwork : Everyone on the team was dedicated and worked together effectively."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Flexibility : The team was ready to adapt and handle unexpected situations."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our responsibilities for the event included:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Venue selection: We carefully selected a venue that was both spacious and stylish, and that could accommodate the expected number of attendees. Artist’s movement planning: We worked closely with the artist’s team to map out the artist’s movements throughout the event, ensuring a smooth and efficient flow of activities."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Green room arrangements: We provided a comfortable and well-equipped green room for the artist to relax and prepare before and after the event."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Queue management: We implemented a system to manage the queue of attendees, ensuring that everyone had a fair chance to meet the artist."
+        },
+        {
+          "kind": "paragraph",
+          "text": "MC selection and coordination: We selected a talented and engaging MC who was able to keep the energy high and the audience entertained."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Poster and wristband design and production: We designed and produced eye-catching posters and wristbands to promote the event and to create a sense of excitement among attendees."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Event decoration: We sourced and arranged props and decorations to create a festive and inviting atmosphere at the event."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Photo booth setup: We set up a photo booth where attendees could take photos with the artist and with each other."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Overall event management: We managed all aspects of the event, from start to finish, ensuring that everything ran smoothly and that all attendees had a positive experience."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The event was a huge success, with overwhelmingly positive feedback from attendees. Fans were delighted to meet GULF and expressed their appreciation for the well-organized and enjoyable event. We are proud of our work on this project and are confident that our team can deliver the same level of success for your next event."
+        },
+        {
+          "kind": "heading",
+          "text": "Here are some additional details about the event:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Venue: The event was held at a prestigious hotel in Bangkok, Thailand."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Attendees: The event was attended by 100 lucky Sulwhasoo customers."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Activities: The event included a meet-and-greet with GULF, a Q&A session, and a photo booth."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Feedback: The event received overwhelmingly positive feedback from attendees. Fans were delighted to meet GULF and expressed their appreciation for the well-organized and enjoyable event."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We believe that our attention to detail and our commitment to excellence were instrumental in the success of the GULF Fan Meeting Event."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We are confident that our team can deliver the same level of quality and professionalism to your next event."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The results :"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Successful fan meeting : GULF’s fans were happy and impressed."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Company reputation : The company was praised for its outstanding work."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Lessons learned :"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Careful planning : Detailed and thorough planning is key to success."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Teamwork : Effective teamwork helps achieve goals."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Flexibility : Being ready to adapt and handle unexpected situations is essential."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/03/21/the-masterpiece-of-gulf-by-sulwhasoo/",
+      "featured": true
+    },
+    {
+      "_id": "2613",
+      "title": "AirAsia – เล่นใหญ่ สุวรรณภูมิ",
+      "slug": {
+        "current": "airasia-เล่นใหญ่-สุวรรณภูมิ"
+      },
+      "category": "all",
+      "categories": [],
+      "categoryLabels": [],
+      "coverImage": "/evernever/work-2613.png",
+      "gallery": [],
+      "videoUrl": "https://drive.google.com/file/d/1Pqym3UUs4l2QbgkH_Z4xqBqNpGqoTaE9/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/1Pqym3UUs4l2QbgkH_Z4xqBqNpGqoTaE9/preview"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/05/30/airasia-%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88-%e0%b8%aa%e0%b8%b8%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%a0%e0%b8%b9%e0%b8%a1%e0%b8%b4/",
+      "featured": false
+    },
+    {
+      "_id": "853",
+      "title": "BamBam Sour & Sweet Fansign Thailand 2023",
+      "slug": {
+        "current": "bambam-sour-sweet-fansign"
+      },
+      "category": "influencer-marketing",
+      "categories": [
+        "influencer-marketing",
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Influencer Marketing",
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-853.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/03/BamBam-Cover.png",
+        "https://evernever.net/wp-content/uploads/elementor/thumbs/sour-sweet5-qlu4n6xz130k887q6tolqyjlv72gngffw6x10p2ie8.png",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-244-1536x1025.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-151-1536x1025.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-389-1536x1025.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-222-1536x1025.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-278-1536x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-137-1536x1025.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-31-1536x1025.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-48-1536x1025.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Digital-Poster-1080x1920-1-576x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Digital-Poster-1080x1920_1-576x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Digital-Poster-1080x1920_2-576x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_8159_Original-768x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_8160_Original-768x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_8160_Original-768x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_4208-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_4207-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_4206-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_4205-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-501-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-498-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-146-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-143-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-134-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-131-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-117-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-58-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-52-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-50-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-48-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-46-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-37-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-34-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-32-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-31-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-28-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-27-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-1-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-8-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-17-1-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-19-1-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-50-1-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-66-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-68-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-70-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-91-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_4204-300x191.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/IMG_4203-300x214.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-15-1-300x200.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-454-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-389-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-325-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-322-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-222-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-372-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-334-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-277-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-292-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-278-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-244-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-208-768x1152.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-216-768x1152.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-351-768x1152.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/BB-fanmeet-341-768x1151.jpg"
+      ],
+      "videoUrl": "https://drive.google.com/file/d/1PctznlYSQyN2kMftOmoHL1f_BQfJapGa/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/1PctznlYSQyN2kMftOmoHL1f_BQfJapGa/preview",
+        "https://drive.google.com/file/d/1abx-XaU6ew389OiMeiraxaAE4FgApkwB/preview"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "The Challenge"
+        },
+        {
+          "kind": "paragraph",
+          "text": "evernever proudly contributes to a memorable event we are thrilled to share our involvement in the BamBam Sour & Sweet Fansign Thailand 2023 where our team collaborated with B House Studio to bring this exciting event to life."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our contributions spanned the entire event lifecycle, from the initial planning stages to the final execution. This included:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Conceptualizing and developing engaging activities: We brainstormed and implemented a variety of fun and interactive activities for fans to enjoy."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Designing and planning the event layout: We carefully planned the layout of the event space to ensure a smooth flow of traffic and an optimal experience for all attendees."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Mapping out the artist’s path: We meticulously planned the artist’s movements throughout the event to maximize fan interaction and engagement."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Designing the event booth: We created a visually appealing and inviting booth that reflected the event’s theme and atmosphere."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Providing photography services: One of our talented team members captured the event’s special moments through professional photography."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We are immensely proud of our work on the BamBam Sour & Sweet Fansign Thailand 2023. We would like to express our sincere gratitude to B House Studio for entrusting us with this project and to all the fans who came together to make this event a truly memorable one."
+        },
+        {
+          "kind": "paragraph",
+          "text": "This collaboration further demonstrates evernever’s commitment to delivering exceptional event experiences. We are dedicated to working closely with our clients to understand their unique needs and create innovative solutions that exceed expectations."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We look forward to building on this success and continuing to create unforgettable moments for our clients and their audiences."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Here are some additional details about our contributions:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Activities: We designed and implemented a variety of activities for fans to participate in, including a photo booth, a mini-game zone, and a raffle."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Event layout: We carefully planned the layout of the event space to ensure that there was ample space for fans to move around and participate in the activities. We also ensured that the stage was in a central location so that everyone had a good view of the artist."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Artist’s path: We worked closely with the artist’s team to map out the artist’s movements throughout the event. This included planning the artist’s entrance and exit, as well as their interactions with fans."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Booth design: We designed a booth that was both visually appealing and inviting. The booth featured the event’s logo and colors, and it was stocked with promotional materials and giveaways."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Photography: Our photographer captured a variety of photos throughout the event, including photos of the artist, the fans, and the activities. These photos were used to promote the event on social media and in future marketing materials."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We believe that our attention to detail and our commitment to excellence were instrumental in the success of the BamBam Sour & Sweet Fansign Thailand 2023. We are confident that our team can deliver the same level of quality and professionalism to your next event."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/03/20/bambam-sour-sweet-fansign/",
+      "featured": true
+    },
+    {
+      "_id": "2429",
+      "title": "The Loft Clinic",
+      "slug": {
+        "current": "the-loft-clinic"
+      },
+      "category": "marketing-connsulting",
+      "categories": [
+        "marketing-connsulting",
+        "social-media-marketing"
+      ],
+      "categoryLabels": [
+        "Marketing Connsulting",
+        "Social Media Marketing"
+      ],
+      "coverImage": "/evernever/work-2429.jpg",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/08/Artboard-2.jpg",
+        "https://evernever.net/wp-content/uploads/2024/08/Artboard-3.jpg",
+        "https://evernever.net/wp-content/uploads/2024/08/Artboard-4.jpg",
+        "https://evernever.net/wp-content/uploads/2024/08/Artboard-5.jpg",
+        "https://evernever.net/wp-content/uploads/2024/08/Artboard-6.jpg",
+        "https://evernever.net/wp-content/uploads/2024/08/Artboard-7.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Artboard-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Artboard-2-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Artboard-3-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Artboard-4-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/การเข้าชมเพจและโปรไฟล์.png",
+        "https://evernever.net/wp-content/uploads/2024/05/การเข้าถึง.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Theloft001-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Theloft002-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Theloft003-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Theloft004-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Planning-01.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Planning2-01.png",
+        "https://evernever.net/wp-content/uploads/2024/05/001.png",
+        "https://evernever.net/wp-content/uploads/2024/05/002.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-62.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-61.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-51.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-60.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-59.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-58.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-57.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-56.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-55.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-53.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-46.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-47.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-48.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-49.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-50.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-40.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-37.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-39.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-38.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-36.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-25.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-34.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-32.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-31.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-44.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-45.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-33.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-35.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-54.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-29.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-42.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-41.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-18.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-20.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-21.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-22.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-24.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-27.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-28.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-26.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-16.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-30.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-14.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-15.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-12.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-9.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-8.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-7.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-17.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-11.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-5.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-6.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-10.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-2.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-1.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-3.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-4.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-23.png",
+        "https://evernever.net/wp-content/uploads/2024/05/Calendar-Content-Facebook-52.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/169189299_126783789426382_868518464403297117_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/169458773_126784162759678_8669517706106992648_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/169932580_126783992759695_1634457944484750896_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/170417778_126783852759709_5586593037506682804_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Screenshot-2024-04-23-032516-1021x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Screenshot-2024-04-23-032538-1024x1019.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Screenshot-2024-04-23-032559-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Screenshot-2024-04-23-032637-1022x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/174874448_133923012045793_4467385036092994494_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/176405968_134653738639387_4604329317699194820_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/Screenshot-2024-04-23-032704-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/176747338_133302245441203_3878529288079497487_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/001-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/002-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/003-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/004-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/005-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/006-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/007-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/008-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/009-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/010-1-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/05/011-1-1536x864.jpg"
+      ],
+      "videoUrl": null,
+      "videoUrls": [],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "The Loft Clinic"
+        },
+        {
+          "kind": "paragraph",
+          "text": "I am proud to present my comprehensive marketing management services for The Loft Clinic, a renowned plastic surgery clinic. Since 2022, I have been their trusted partner, providing a wide range of services to enhance their brand presence and drive business growth. The Loft Clinic’s exceptional growth in 2024 is a compelling testament to the power of effective marketing. My comprehensive marketing management services have played a pivotal role in driving this success, demonstrating the value of strategic planning, engaging content, and targeted advertising."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Strategic Planning: I develop comprehensive marketing strategies that align with The Loft Clinic’s business objectives and target audience. This involves analyzing market trends, identifying customer needs, and setting achievable goals."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Caption Creation: I craft engaging and informative captions for The Loft Clinic’s social media posts, ensuring that they capture attention, spark conversations, and effectively convey the brand’s message."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Image Creation: I design visually appealing and high-quality images for The Loft Clinic’s social media and promotional materials. These images showcase the clinic’s services, highlight their expertise, and enhance their overall brand aesthetic."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Advertising Planning: I plan and execute effective advertising campaigns for The Loft Clinic across various channels, including social media, search engines, and traditional media. This involves identifying the most suitable channels, developing targeted ad copy, and optimizing campaign performance."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Increased Brand Awareness: My marketing efforts have significantly increased brand awareness for The Loft Clinic, making them a more recognizable and trusted name in the plastic surgery industry."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Enhanced Engagement: I have fostered stronger engagement with The Loft Clinic’s target audience, leading to increased website traffic, social media interactions, and inquiries."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Boosted Business Growth: My marketing strategies have contributed to a noticeable increase in business growth for The Loft Clinic, demonstrating the effectiveness of my comprehensive approach."
+        },
+        {
+          "kind": "paragraph",
+          "text": "My expertise in marketing planning, content creation, and advertising execution makes me a valuable asset for any brand seeking to enhance their online presence, engage their target audience, and drive business growth. I am passionate about using my skills to help businesses achieve their marketing goals."
+        },
+        {
+          "kind": "paragraph",
+          "text": "I am confident in my ability to deliver exceptional results for your brand. Please contact me at [your email address] or [your phone number] to discuss your marketing needs."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/05/10/the-loft-clinic/",
+      "featured": false
+    },
+    {
+      "_id": "2391",
+      "title": "Estee Lauder – Advanced Night Repair",
+      "slug": {
+        "current": "estee-lauder-advanced-night-repair"
+      },
+      "category": "social-media-marketing",
+      "categories": [
+        "social-media-marketing",
+        "influencer-marketing",
+        "content-marketing",
+        "tvc-advertising",
+        "online-advertising"
+      ],
+      "categoryLabels": [
+        "Social Media Marketing",
+        "Influencer Marketing",
+        "Content Marketing",
+        "TVC Advertising",
+        "Online Advertising"
+      ],
+      "coverImage": "/evernever/work-2391.jpg",
+      "gallery": [],
+      "videoUrl": "https://www.youtube.com/watch?v=tDwe_Xlgbs8",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=tDwe_Xlgbs8"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "Estee Lauder Ad Campaign Featuring James Ma"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Creative Excellence and Brand Collaboration"
+        },
+        {
+          "kind": "paragraph",
+          "text": "I am proud to present my work on the Estee Lauder ad campaign, which features the renowned Thai actor James Ma. This project was a testament to my creative vision and ability to collaborate effectively with a prestigious brand."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Creative and Art Director: I held the dual roles of Creative and Art Director for this campaign, encompassing the entire creative process from ideation to execution. This involved developing the original concept, crafting the storyboard, and overseeing all aspects of production."
+        },
+        {
+          "kind": "paragraph",
+          "text": "James Ma’s Involvement: I played a key role in securing the involvement of James Ma, a highly sought-after actor in Thailand. His presence added significant star power to the campaign and resonated deeply with the target audience."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Brand Approval and No Revisions: The campaign concept I presented was met with immediate enthusiasm from the Estee Lauder team, and it was executed without any revisions. This speaks to my ability to align my creative vision with the brand’s objectives and deliver a truly impactful campaign."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Impactful Storytelling: The ad effectively captured the essence of Estee Lauder’s brand identity, showcasing the elegance, sophistication, and timeless appeal of their products."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Positive Reception: The ad was met with a positive reception from both critics and consumers, further solidifying my reputation as a creative force in the advertising industry."
+        },
+        {
+          "kind": "paragraph",
+          "text": "This Estee Lauder campaign exemplifies my expertise in developing high-concept, impactful advertising campaigns that resonate with target audiences and drive brand success. My ability to collaborate effectively with clients and lead creative teams from ideation to execution sets me apart as a valuable asset in the advertising landscape."
+        },
+        {
+          "kind": "paragraph",
+          "text": "I am eager to bring my skills and experience to your next project. Please contact me at [your email address] or [your phone number] to discuss your creative needs."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Thank you for considering my work."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/04/24/estee-lauder-advanced-night-repair/",
+      "featured": true
+    },
+    {
+      "_id": "2586",
+      "title": "YORCH x EVEANDBOY",
+      "slug": {
+        "current": "yorch-x-eveandboy"
+      },
+      "category": "influencer-marketing",
+      "categories": [
+        "influencer-marketing",
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Influencer Marketing",
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-2586.jpg",
+      "gallery": [],
+      "videoUrl": "https://drive.google.com/file/d/16cy2aVt98nFnYlJvuLvtsmQ6Z3YYnaej/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/16cy2aVt98nFnYlJvuLvtsmQ6Z3YYnaej/preview"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "paragraph",
+          "text": "I am honored to have had the opportunity to collaborate with the talented actor Yorch Yongsin and the renowned beauty retailer EVEANDBOY. This project was a rewarding experience that allowed me to showcase my expertise in creating high-quality visual content that aligns with brand identity and resonates with target audiences."
+        },
+        {
+          "kind": "paragraph",
+          "text": "My Role in the Collaboration:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "As part of the team responsible for Yorch Yongsin’s personal stills and videos, I played a crucial role in capturing his essence and showcasing his multifaceted persona."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/05/14/yorch-x-eveandboy/",
+      "featured": false
+    },
+    {
+      "_id": "2407",
+      "title": "LINE – ชีวิตสบายกว่าที่คิด",
+      "slug": {
+        "current": "line-oa"
+      },
+      "category": "marketing-connsulting",
+      "categories": [
+        "marketing-connsulting",
+        "social-media-marketing",
+        "online-advertising",
+        "design-branding"
+      ],
+      "categoryLabels": [
+        "Marketing Connsulting",
+        "Social Media Marketing",
+        "Online Advertising",
+        "Design & Branding"
+      ],
+      "coverImage": "/evernever/work-2407.png",
+      "gallery": [],
+      "videoUrl": "https://www.youtube.com/watch?v=B15qwqsrDiU",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=B15qwqsrDiU",
+        "https://www.youtube.com/watch?v=9oD1pj2MyGc",
+        "https://www.youtube.com/watch?v=ZYlv1rrVW4A",
+        "https://www.youtube.com/watch?v=NuLOK_3K01E",
+        "https://www.youtube.com/watch?v=vaFO-fBE4UA"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "LINE Ads Campaign :"
+        },
+        {
+          "kind": "paragraph",
+          "text": "I am thrilled to showcase my expertise in CGI and motion graphics, which played a pivotal role in the LINE ad campaign I worked on. This project demanded a high level of creativity, technical proficiency, and the ability to deliver within a tight deadline, all while working with a large and demanding client."
+        },
+        {
+          "kind": "paragraph",
+          "text": "CGI and Motion Graphics Design: I was solely responsible for the design and creation of all CGI and motion graphics elements in the LINE ad campaign. This involved conceptualizing, modeling, animating, and rendering the visual elements that brought the campaign to life."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Overcoming Tight Deadlines: The project was subject to a compressed timeline, which required me to work efficiently and effectively under pressure. My ability to manage my time, prioritize tasks, and deliver high-quality work within tight deadlines was instrumental in the campaign’s success."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Collaborating with a Large Client: Working with a large client like LINE presented unique challenges, but it also provided valuable opportunities for collaboration and learning. I effectively communicated my creative vision, addressed feedback promptly, and ensured that the final product aligned with the client’s expectations."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The Ad’s Success:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Visual Spectacle: The CGI and motion graphics elements I created were visually stunning and seamlessly integrated into the ad, enhancing the overall storytelling and captivating the audience."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Client Satisfaction: The client was highly satisfied with the final product, praising the quality, creativity, and timeliness of my work."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demonstrating Expertise: This project showcased my ability to handle complex CGI and motion graphics projects under pressure, even when working with large and demanding clients."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/04/28/line-oa/",
+      "featured": false
+    },
+    {
+      "_id": "1721",
+      "title": "Metro Mall – Bangkok Metro Networks",
+      "slug": {
+        "current": "metro-mall-bangkok-metro-networks"
+      },
+      "category": "design-branding",
+      "categories": [
+        "design-branding",
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Design & Branding",
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-1721.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/03/J-1-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/K-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/04D-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/D-3-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/A-3-1536x864.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/present_Page_1-scaled.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/present_Page_2.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/present_Page_3-scaled.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/present_Page_4-scaled.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/present_Page_5.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/present_Page_6-scaled.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/L.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/K.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/J-1.jpg"
+      ],
+      "videoUrl": "https://drive.google.com/file/d/13TzFi7HX7AWxtJ2KdFo0iEHYatDjR8u3/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/13TzFi7HX7AWxtJ2KdFo0iEHYatDjR8u3/preview",
+        "https://drive.google.com/file/d/1nG0Vi3SL51sbv1jVKc6jWWp8vDOpL1pU/preview"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/03/24/metro-mall-bangkok-metro-networks/",
+      "featured": false
+    },
+    {
+      "_id": "2341",
+      "title": "Bioderma",
+      "slug": {
+        "current": "bioderma"
+      },
+      "category": "influencer-marketing",
+      "categories": [
+        "influencer-marketing",
+        "content-marketing",
+        "online-advertising",
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Influencer Marketing",
+        "Content Marketing",
+        "Online Advertising",
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-2341.jpg",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/04/cover-work-2-768x432.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09240-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09225-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09203-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09209-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09193-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09263-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09230-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09188-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09185-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09195-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09199-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09214-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09215-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09233-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09253-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09258-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09267-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/DSC09246-1024x683.jpg"
+      ],
+      "videoUrl": null,
+      "videoUrls": [],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/04/16/bioderma/",
+      "featured": false
+    },
+    {
+      "_id": "2087",
+      "title": "WAR OF Y – Y IDOL PROJECT",
+      "slug": {
+        "current": "project-y-idol"
+      },
+      "category": "design-branding",
+      "categories": [
+        "design-branding",
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Design & Branding",
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-2087.jpg",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/03/logo-YIDOl2-1024x577.png",
+        "https://evernever.net/wp-content/uploads/2024/03/AIS-PLAY.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/001-1024x155.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/002-1024x158.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/003-1024x157.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/004-1024x155.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025139-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025154-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025194-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025231-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025436-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025439-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025467-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025474-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025555-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025589-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025643-768x1152.jpeg",
+        "https://evernever.net/wp-content/uploads/2024/03/jpeg-optimizer_WAR-OF-Y-025669-768x1152.jpeg"
+      ],
+      "videoUrl": "https://drive.google.com/file/d/1EjWhZHWPzW8tSaeoUtUAMSNPqLQsT0ie/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/1EjWhZHWPzW8tSaeoUtUAMSNPqLQsT0ie/preview",
+        "https://drive.google.com/file/d/1aDAlTbv9XYIwNLsvOlp-yPaPXYBU2Wf0/preview"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "paragraph",
+          "text": "We are honored to have collaborated with COPY A BANGKOK on the high-quality series “WAR OF Y – Y IDOL” for AIS PLAY."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our contributions included Motion Graphic and Art Direction for scenes involving LED screens."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Overcoming Challenges: A Tight Deadline and On-Site Execution"
+        },
+        {
+          "kind": "paragraph",
+          "text": "This project presented a unique challenge: we were given a basic brief and had to conceptualize, develop, and execute the entire project within a very tight deadline. Despite the time constraints, we successfully delivered the project on time and to the client’s specifications."
+        },
+        {
+          "kind": "heading",
+          "text": "Furthermore we were responsible for overseeing the on-site sequencing of the visuals"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Which added another layerof complexity to the project. This hands-on experience proved to be both enjoyable and rewarding, allowing us to learn and grow as a team."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Overall, this project was a valuable learning opportunity that allowed us to showcase our ability to work under pressure, think creatively, and deliver high-quality results within a tight deadline."
+        },
+        {
+          "kind": "heading",
+          "text": "We are proud of our contributions to “WAR OF Y – Y IDOL” and look forward to future opportunities to collaborate with COPY A BANGKOK and WAR OF Y."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/03/29/project-y-idol/",
+      "featured": false
+    },
+    {
+      "_id": "1877",
+      "title": "เกลียดความบังเอิญ – พีธ พีระ",
+      "slug": {
+        "current": "e29-peet"
+      },
+      "category": "music-video",
+      "categories": [
+        "music-video"
+      ],
+      "categoryLabels": [
+        "Music Video"
+      ],
+      "coverImage": "/evernever/work-1877.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/03/Main-KV-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Direction_Board-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Direction_Board02-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Direction_Board03-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Direction_Board04-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Direction_Board05-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Direction_Board-1-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Direction_Board06-1024x576.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-12-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-13-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-17-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-18-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-19-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-20-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-21-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-22-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-23-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-24-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-25-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-26-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-27-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-32-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-33-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-34-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-35-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-36-1-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-37-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-38-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-39-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-40-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-41-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-42-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-43-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-44-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-45-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-46-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-47-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-49-300x169.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Artboard-1-768x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/002-759x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/003-759x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/004-759x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/005-759x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/006-759x1024.png",
+        "https://evernever.net/wp-content/uploads/2024/03/007-759x1024.png"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=lUKtcYNqxwY",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=lUKtcYNqxwY"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "paragraph",
+          "text": "A Tale of Passion and Disappointment: The Uncredited Project"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our team poured our hearts and souls into this project. We started from the very beginning, pitching the idea, having in-depth discussions with the artist, listening to the unfinished song, and conceptualizing the entire plot."
+        },
+        {
+          "kind": "heading",
+          "text": "Phase 1 : Concept Idea"
+        },
+        {
+          "kind": "paragraph",
+          "text": "เกลียดความบังเอิญ, รักเก่าที่ไม่สมหวังอยากให้เป็นภาพความทรงจําของคนดูหลายๆคน สามารถดูแล้วก็ย้อนกลับไปถึงความรักเก่า( อกหักทิพย์) ได้ ผิดหวังซ้ำแล้วซ้ำอีก, อึดอัดภายในใจ"
+        },
+        {
+          "kind": "heading",
+          "text": "Phase 2 : Direction"
+        },
+        {
+          "kind": "paragraph",
+          "text": "แนวทางMV เพลงนี้คือ การแอบรักเพื่อนสนิท( ที่เราแค่คิดไปเอง) เป็นความรักอันบริสุทธิ์ของผู้หญิงคนนึง ท่ีมอบให้กับเพื่อนสนิทของเธอ โดยเข้าใจมาตลอดว่าอีกฝ่ายก็รู้สึก และคิดเหมือนกันมาตลอด จนกระท่ังได้มารู้ความจริงว่า คิดไปเอง จึงต้องทําใจให้ได้ แต่โชคชะตาก็เล่นตลกทําให้วันนึงต้องกลับมาพบเจอกันอีกในงานแต่งงาน ของฝ่ายชาย สุดท้ายก็เก็บความรู้สึกเอาไว้ไม่ไหว จนต้องสารภาพออกไป แต่… ก็ทําให้ต้องผิดหวังอีกเช่นเคย"
+        },
+        {
+          "kind": "heading",
+          "text": "Phase 3 : Our meticulous process involved"
+        },
+        {
+          "kind": "paragraph",
+          "text": "1. Idea presentation to the artist and their management team."
+        },
+        {
+          "kind": "paragraph",
+          "text": "2. Casting the perfect actors."
+        },
+        {
+          "kind": "paragraph",
+          "text": "3. Sourcing the ideal filming location."
+        },
+        {
+          "kind": "paragraph",
+          "text": "4. Presenting three initial plot ideas, refining the two favorites, developing three more, selecting two more, finalizing two, and choosing the ultimate winner."
+        },
+        {
+          "kind": "paragraph",
+          "text": "5. Costume fitting for the actors."
+        },
+        {
+          "kind": "paragraph",
+          "text": "6. Visiting the actual location for a thorough assessment."
+        },
+        {
+          "kind": "paragraph",
+          "text": "7. Creating a shot list."
+        },
+        {
+          "kind": "paragraph",
+          "text": "8. Contacting the DoP team."
+        },
+        {
+          "kind": "paragraph",
+          "text": "9. Facilitating communication between our team and the Art Director."
+        },
+        {
+          "kind": "paragraph",
+          "text": "10. Arranging acting lessons for the actors with a professional instructor."
+        },
+        {
+          "kind": "paragraph",
+          "text": "11. Ensuring everything is ready for the upcoming shoot day."
+        },
+        {
+          "kind": "paragraph",
+          "text": "12. Collaborating with the Stylish team on wardrobe, makeup, and hair."
+        },
+        {
+          "kind": "paragraph",
+          "text": "13. Crafting the Mood & Tone in collaboration with the DoP."
+        },
+        {
+          "kind": "paragraph",
+          "text": "However, we were not the ones who filmed the Production and Post-Production phases. To our dismay, the final product closely resembled our vision, yet our credit was nowhere to be found."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our team’s name was completely omitted This project left us with a bitter taste in our mouths."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Despite the immense effort and dedication we invested, our contribution was erased."
+        },
+        {
+          "kind": "paragraph",
+          "text": "It was a disheartening experience that we will never forget. This unfortunate incident serves as a stark reminder of the importance of protecting our intellectual property and ensuring proper credit for our work."
+        },
+        {
+          "kind": "paragraph",
+          "text": "While the final product diverged from my vision , I acknowledge its beauty and appreciate the opportunity to contribute to this project."
+        },
+        {
+          "kind": "paragraph",
+          "text": "I am grateful to E29 and MONO29 for this learning experience and look forward to future opportunities to showcase my skills."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Thank you for the chance to work with such a talented team."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We hope that by sharing this story , we can raise awareness about this issue and encourage others to stand up for their rights."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We will continue to strive for excellence and deliver creative solutions with passion and integrity. We believe that through transparency, collaboration, and fair recognition, we can build a more sustainable and ethical creative industry."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/03/26/e29-peet/",
+      "featured": false
+    },
+    {
+      "_id": "2314",
+      "title": "ICHITAN – Yen Yen",
+      "slug": {
+        "current": "ichitan-yen-yen"
+      },
+      "category": "social-media-marketing",
+      "categories": [
+        "social-media-marketing",
+        "influencer-marketing",
+        "content-marketing"
+      ],
+      "categoryLabels": [
+        "Social Media Marketing",
+        "Influencer Marketing",
+        "Content Marketing"
+      ],
+      "coverImage": "/evernever/work-2314.jpg",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/04/cover-work-1.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC-0aTaAAMB4B5.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC-0Z4XsAE_Hai.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC-0ZDaIAA7n-L.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC-0ZWWUAAxHLY.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC9yHbXwAENoNi.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC9yHHakAI2xXp.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC9yHiWYAIm7Yr.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC9yHJaMAUf8Nf.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC-QP4aIAEXOon.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC-QP6aQAMO4Up.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQC-QQMXEAAeBV1.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQDB7-yXoAAdgGX.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQDhJn7aUAMIkZs.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQDhJoNXMAAXzvg.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQDhQ5jaMAIjx3t.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQDhQpFagAYFnSs.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQEDDUsaUAUxlnm.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQEDDUtaUAEP8jw.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/FQDhJoNXMAAXzvg22.jpg"
+      ],
+      "videoUrl": null,
+      "videoUrls": [],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/04/16/ichitan-yen-yen/",
+      "featured": false
+    },
+    {
+      "_id": "2635",
+      "title": "The Academy – วัย บ้า คว้า ฝัน",
+      "slug": {
+        "current": "the-academy-วัย-บ้า-คว้า-ฝัน"
+      },
+      "category": "online-advertising",
+      "categories": [
+        "online-advertising",
+        "music-video"
+      ],
+      "categoryLabels": [
+        "Online Advertising",
+        "Music Video"
+      ],
+      "coverImage": "/evernever/work-2635.jpg",
+      "gallery": [],
+      "videoUrl": "https://www.youtube.com/watch?si=fpWpo_xw3yvtW1ak&v=jS0qdKkJ3pg&feature=youtu.be",
+      "videoUrls": [
+        "https://www.youtube.com/watch?si=fpWpo_xw3yvtW1ak&v=jS0qdKkJ3pg&feature=youtu.be"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/06/15/the-academy-%e0%b8%a7%e0%b8%b1%e0%b8%a2-%e0%b8%9a%e0%b9%89%e0%b8%b2-%e0%b8%84%e0%b8%a7%e0%b9%89%e0%b8%b2-%e0%b8%9d%e0%b8%b1%e0%b8%99/",
+      "featured": false
+    },
+    {
+      "_id": "2282",
+      "title": "Wakingbee – Sensible Sweat Inspirer",
+      "slug": {
+        "current": "wakingbee-sensible-sweat-inspirer"
+      },
+      "category": "marketing-connsulting",
+      "categories": [
+        "marketing-connsulting",
+        "social-media-marketing",
+        "influencer-marketing",
+        "content-marketing",
+        "tvc-advertising",
+        "online-advertising",
+        "design-branding"
+      ],
+      "categoryLabels": [
+        "Marketing Connsulting",
+        "Social Media Marketing",
+        "Influencer Marketing",
+        "Content Marketing",
+        "TVC Advertising",
+        "Online Advertising",
+        "Design & Branding"
+      ],
+      "coverImage": "/evernever/work-2282.jpg",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/04/145764202_3661614580625841_7720725376967738142_n.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/131232337_3528099790643988_1534784532729614458_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/131231568_3528099843977316_1184023954815009413_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/131178364_3528099943977306_6118902266905240430_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/131110541_3528099927310641_4433331031848950194_n-1024x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/127663851_3489345181186116_2721440991649285792_n.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/129519512_3510174959103138_6621644572345035358_n-1024x819.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/130249867_3927772943921802_9186753141044368066_n-768x512.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=qMTI7tj-2xY",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=qMTI7tj-2xY",
+        "https://www.youtube.com/watch?v=zH8GzFcv-6E",
+        "https://www.youtube.com/watch?v=IMj0NEnLDRg",
+        "https://www.youtube.com/watch?v=xwS4djgDovg"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "paragraph",
+          "text": "I am thrilled to showcase my work on the Wakingbee ad campaign, where I was responsible for every aspect of the production, from ideation to execution. This involved:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Creative Idea: Developing original concepts that captured the essence of Wakingbee’s brand and resonated with their target audience."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Storyboard: Creating detailed storyboards that translated the creative vision into a visual narrative."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Sound Recording: Overseeing the sound recording process, ensuring high-quality audio that complemented the visuals and enhanced the storytelling."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Production: Managing all aspects of production, including scheduling, budgeting, and crew coordination."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Directing: Guiding the actors and ensuring their performances aligned with the overall vision for the ads."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Editing: Assembling the footage into compelling narratives that delivered the desired message and impact."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Motion Graphics: Incorporating motion graphics to add visual interest and reinforce the brand identity."
+        },
+        {
+          "kind": "paragraph",
+          "text": "I am incredibly proud of the work I did on this campaign, and I believe it demonstrates my ability to create high-quality, engaging video content that effectively communicates brand messages. I am confident that my skills and experience would be a valuable asset to any team."
+        },
+        {
+          "kind": "paragraph",
+          "text": "In addition to the comprehensive creative and production responsibilities I outlined in the previous response, I would like to highlight the exceptional contributions of my team members, particularly the photographer and the actors, who played crucial roles in the success of the Wakingbee ad campaign."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Capturing Perfect Moments: Our highly skilled photographer had an uncanny ability to capture the essence of each scene in a single shot, ensuring that every frame was visually compelling and aligned with the campaign’s narrative."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Transforming Images into Advertising Assets: The photographer’s expertise extended beyond capturing raw images; they also played a pivotal role in transforming these stills into powerful advertising assets. Their understanding of lighting, composition, and editing techniques was instrumental in creating visually striking visuals that resonated with the target audience."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Driving Brand Awareness and Sales: The photographer’s contributions extended beyond the realm of aesthetics; their work directly contributed to increased brand awareness and sales for Wakingbee. The captivating images served as effective tools for storytelling, effectively conveying the brand’s message and enticing consumers to engage with the product."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The combined efforts of my team , including the photographer and the actors, were instrumental in elevating the Wakingbee ad campaign to new heights. Their expertise, dedication, and passion for the project were evident in every aspect of the production, and their contributions played a significant role in the campaign’s success."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/04/15/wakingbee-sensible-sweat-inspirer/",
+      "featured": false
+    },
+    {
+      "_id": "518",
+      "title": "Grab เมื่อไหร่ก็อุ่นใจ",
+      "slug": {
+        "current": "grab"
+      },
+      "category": "marketing-connsulting",
+      "categories": [
+        "marketing-connsulting",
+        "social-media-marketing",
+        "online-advertising",
+        "design-branding",
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Marketing Connsulting",
+        "Social Media Marketing",
+        "Online Advertising",
+        "Design & Branding",
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-518.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/04/2-768x853.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/3-768x853.jpg",
+        "https://evernever.net/wp-content/uploads/2024/04/ินนะ-1024x819.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Motion-1024x611.jpg"
+      ],
+      "videoUrl": null,
+      "videoUrls": [],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "We were tasked with launching Grab's online marketing campaign in Thailand"
+        },
+        {
+          "kind": "paragraph",
+          "text": "a challenging feat as Grab was a relatively new entrant to the market. Our team was among the first to spearhead this initiative. With limited information about Grab and low public awareness, we successfully created a viral campaign that generated significant buzz and recognition for the brand."
+        },
+        {
+          "kind": "heading",
+          "text": "Our key strategies included:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Crafting engaging and relatable content: We developed a series of humorous and light-hearted videos that resonated with Thai audiences."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Leveraging social media platforms: We utilized popular social media platforms like Facebook and YouTube to reach a wider audience and drive engagement."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Collaborating with influencers: We partnered with popular Thai influencers to further amplify the campaign’s reach and impact."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We also designed and fabricated a custom backdrop for photo-taking purposes. The backdrop was tailored to the specific requirements of the event and featured eye-catching visuals that complemented the overall theme."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our key considerations in designing the backdrop included:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Event theme and branding: We ensured that the backdrop aligned with the overall theme and branding of the event."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Visual impact: We created a visually appealing backdrop that would capture attention and create a memorable experience for attendees."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Functionality: We designed the backdrop to be functional and easy to use for photo-taking."
+        },
+        {
+          "kind": "paragraph",
+          "text": "The custom backdrop was a well-received addition to the event and contributed to its overall success. It provided a visually stunning backdrop for photos and helped to create a festive and engaging atmosphere."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our expertise in backdrop design and fabrication allows us to create unique and memorable experiences for our clients. We are committed to delivering high-quality products that meet the specific needs of each project."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/03/16/grab/",
+      "featured": false
+    },
+    {
+      "_id": "1804",
+      "title": "Mono Pattaya Countdown 2022",
+      "slug": {
+        "current": "mono-pattaya-countdown-2022-draft"
+      },
+      "category": "events-organizer",
+      "categories": [
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-1804.jpg",
+      "gallery": [],
+      "videoUrl": "https://www.youtube.com/watch?v=DMBibmlEoGU",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=DMBibmlEoGU"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "MONO COUNTDOWN PATTAYA 2022"
+        },
+        {
+          "kind": "heading",
+          "text": "MONO PATTAYA COUNTDOWN 2022: A Memorable Experience"
+        },
+        {
+          "kind": "paragraph",
+          "text": "We were thrilled to be the main Korean artist handler for MONO PATTAYA COUNTDOWN 2022. It was an honor to work with world-class artist BamBam, and this experience was undoubtedly one of the highlights of the project for us."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our team of four photographers and two videographers closely followed BamBam’s artist team, capturing behind-the-scenes footage that is now featured on this website’s background."
+        },
+        {
+          "kind": "heading",
+          "text": "Key highlights:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Collaborated with world-renowned artist BamBam"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Provided comprehensive artist handling services"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Captured behind-the-scenes footage for website background"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Successfully managed artist accommodation and travel arrangements"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Collaborated with B House on event execution"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Provided LED CG support for multiple artists"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our responsibilities also included arranging accommodation for the artist and their team, as well as planning their travel itinerary. This challenging project was a collaboration with B House, and we are grateful for their trust in our capabilities and for allowing us to play a significant role in the event."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We are grateful for the opportunity to be a part of MONO PATTAYA COUNTDOWN 2022 and contribute to its success. This project was a valuable learning experience that allowed us to showcase our skills and dedication to delivering exceptional results."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/03/26/mono-pattaya-countdown-2022-draft/",
+      "featured": false
+    },
+    {
+      "_id": "2419",
+      "title": "LINE for Business",
+      "slug": {
+        "current": "line-for-business"
+      },
+      "category": "marketing-connsulting",
+      "categories": [
+        "marketing-connsulting",
+        "social-media-marketing",
+        "online-advertising"
+      ],
+      "categoryLabels": [
+        "Marketing Connsulting",
+        "Social Media Marketing",
+        "Online Advertising"
+      ],
+      "coverImage": "/evernever/work-2419.png",
+      "gallery": [],
+      "videoUrl": "https://www.youtube.com/watch?v=Qz26jjjyJsM",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=Qz26jjjyJsM",
+        "https://www.youtube.com/watch?v=exOOmQZ7RWk",
+        "https://www.youtube.com/watch?v=Tv1CPR-6jvs",
+        "https://www.youtube.com/watch?v=o6i5bCC8dtA",
+        "https://www.youtube.com/watch?v=q_NZ77A7pq4"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "paragraph",
+          "text": "LINE for Business"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Storyboard Creation: I crafted the storyboard that outlined the visual narrative for the ad, ensuring that the story unfolded in a compelling and engaging manner."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Graphic Design: I designed all graphic elements, including logos, icons, and text overlays, ensuring that they aligned with the brand identity and enhanced the overall visual appeal of the ad."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Motion Graphics and Animation: I brought the ad to life through motion graphics and animation, breathing energy and movement into the static graphic elements. My expertise in animation techniques ensured that the transitions were smooth, the visuals were engaging, and the message was conveyed effectively."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/04/28/line-for-business/",
+      "featured": false
+    },
+    {
+      "_id": "2238",
+      "title": "Angie Q&A",
+      "slug": {
+        "current": "angie-qa"
+      },
+      "category": "marketing-connsulting",
+      "categories": [
+        "marketing-connsulting",
+        "social-media-marketing",
+        "content-marketing",
+        "online-advertising"
+      ],
+      "categoryLabels": [
+        "Marketing Connsulting",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Online Advertising"
+      ],
+      "coverImage": "/evernever/work-2238.jpg",
+      "gallery": [],
+      "videoUrl": "https://www.youtube.com/watch?v=E9gwtFSZ1dU",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=E9gwtFSZ1dU"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/04/04/angie-qa/",
+      "featured": false
+    },
+    {
+      "_id": "2664",
+      "title": "Haier",
+      "slug": {
+        "current": "haier"
+      },
+      "category": "online-advertising",
+      "categories": [
+        "online-advertising"
+      ],
+      "categoryLabels": [
+        "Online Advertising"
+      ],
+      "coverImage": "/evernever/work-2664.png",
+      "gallery": [],
+      "videoUrl": "https://www.youtube.com/watch?v=E9HAnDaRBCI",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=E9HAnDaRBCI"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/08/14/haier/",
+      "featured": false
+    },
+    {
+      "_id": "1125",
+      "title": "Mother BKK Resturant",
+      "slug": {
+        "current": "mother-bkk-resturant"
+      },
+      "category": "social-media-marketing",
+      "categories": [
+        "social-media-marketing",
+        "content-marketing",
+        "design-branding"
+      ],
+      "categoryLabels": [
+        "Social Media Marketing",
+        "Content Marketing",
+        "Design & Branding"
+      ],
+      "coverImage": "/evernever/work-1125.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/03/cover-work-1.png",
+        "https://evernever.net/wp-content/uploads/2024/03/Motherbkk0159-683x1024.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Motherbkk0195-1024x683.jpg",
+        "https://evernever.net/wp-content/uploads/elementor/thumbs/Motherbkk0097-scaled-qlu4hiy5o6vn94hop3kdagt8s1z50sm19by4hqe8bo.jpg",
+        "https://evernever.net/wp-content/uploads/elementor/thumbs/Motherbkk0073-scaled-qlu4hscjkjctzbwm4dlbterxn4wquiocd48iozm3bo.jpg",
+        "https://evernever.net/wp-content/uploads/2024/03/Motherbkk0016-768x1152.jpg",
+        "https://evernever.net/wp-content/uploads/elementor/thumbs/Motherbkk0131-scaled-qlu4hg4p8veunx3z9cq68gu5pgnoun2wkm8spgt9vk.jpg",
+        "https://evernever.net/wp-content/uploads/elementor/thumbs/Motherbkk0146-scaled-qlu4hcdchj9pdh9fvb3nyhsbbx67zunz83muscyukg.jpg",
+        "https://evernever.net/wp-content/uploads/elementor/thumbs/Motherbkk0168-scaled-qlu4h9jtx15uendjbrvs90hxjrk4crcs7poecj3134.jpg",
+        "https://evernever.net/wp-content/uploads/elementor/thumbs/Motherbkk0195-1-scaled-qlu4h6qbcj1zfthms8nwjj7jrly0po1l7bpxwp77ls.jpg"
+      ],
+      "videoUrl": "https://drive.google.com/file/d/1EVYIm7isnYD6JGQkXzNHTFyJfM6AWGLO/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/1EVYIm7isnYD6JGQkXzNHTFyJfM6AWGLO/preview"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "Motherbkk​"
+        },
+        {
+          "kind": "heading",
+          "text": "The Challenge"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Motherbkk is a charming and intimate fine-dining restaurant that exudes warmth and sophistication. The brand approached us with the goal of promoting their new seasonal menu, which is available for a limited time only. Our mission was to connect with their fans and drive foot traffic to the restaurant."
+        },
+        {
+          "kind": "paragraph",
+          "text": "To achieve this, we developed a comprehensive marketing strategy that included the following: Social media campaign: We created a series of engaging social media posts that highlighted the new menu items and showcased the restaurant’s unique atmosphere. We also ran a targeted advertising campaign to reach potential customers who were interested in fine dining and seasonal cuisine."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Our campaign was a success, resulting in a significant increase in brand awareness and engagement. We also saw a notable increase in foot traffic to the restaurant, with many customers coming in to try the new menu items. We are proud of our work with Motherbkk and are confident that our marketing strategy helped them to achieve their goals. We are always looking for new and innovative ways to help our clients succeed, and we are excited to continue working with Motherbkk in the future."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We believe that comprehensive marketing strategy was key to the success of campaign. We were able to reach a large audience and generate significant interest in the new menu. We are confident that our team can deliver the same level of success for your next marketing campaign."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/03/20/mother-bkk-resturant/",
+      "featured": false
+    },
+    {
+      "_id": "2619",
+      "title": "SCG – International",
+      "slug": {
+        "current": "scg-international"
+      },
+      "category": "all",
+      "categories": [],
+      "categoryLabels": [],
+      "coverImage": "/evernever/work-2619.jpeg",
+      "gallery": [],
+      "videoUrl": "https://drive.google.com/file/d/1kOyqGO_IIwu4-CzuO6X1duvmTSz9LdWY/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/1kOyqGO_IIwu4-CzuO6X1duvmTSz9LdWY/preview"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/05/30/scg-international/",
+      "featured": false
+    },
+    {
+      "_id": "2373",
+      "title": "Fastwork",
+      "slug": {
+        "current": "fastwork"
+      },
+      "category": "online-advertising",
+      "categories": [
+        "online-advertising"
+      ],
+      "categoryLabels": [
+        "Online Advertising"
+      ],
+      "coverImage": "/evernever/work-2373.jpg",
+      "gallery": [],
+      "videoUrl": "https://www.youtube.com/watch?v=ni-MDjpQc_o",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=ni-MDjpQc_o"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/04/23/fastwork/",
+      "featured": false
+    },
+    {
+      "_id": "2654",
+      "title": "ETUDE",
+      "slug": {
+        "current": "etude"
+      },
+      "category": "online-advertising",
+      "categories": [
+        "online-advertising"
+      ],
+      "categoryLabels": [
+        "Online Advertising"
+      ],
+      "coverImage": "/evernever/work-2654.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/08/Key-Visual-1024x576.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=fikDJVz_Z1g",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=fikDJVz_Z1g"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/08/14/etude/",
+      "featured": false
+    },
+    {
+      "_id": "588",
+      "title": "Youtube FanFest Thailand – URBOYTJ วายร้าย",
+      "slug": {
+        "current": "youtube-urboytj"
+      },
+      "category": "design-branding",
+      "categories": [
+        "design-branding",
+        "events-organizer"
+      ],
+      "categoryLabels": [
+        "Design & Branding",
+        "Events Organizer"
+      ],
+      "coverImage": "/evernever/work-588.png",
+      "gallery": [],
+      "videoUrl": "https://drive.google.com/file/d/19l2MvWk8lwv6yWPmP0Es261urA1q8aex/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/19l2MvWk8lwv6yWPmP0Es261urA1q8aex/preview",
+        "https://drive.google.com/file/d/1-NUxGYtuClIrFaSAKlrK_xSbH4cAwgVR/preview",
+        "https://drive.google.com/file/d/1Oh68Tg4ZfqyHRlcUF3jT1qGNuxsbmPne/preview",
+        "https://drive.google.com/file/d/1K0EaiMkFydk2x1QGPBeDqm-rBGPlBi0o/preview",
+        "https://drive.google.com/file/d/1jWLWkAuYqvRryRMIuFThvz3uhXgQtgLR/preview"
+      ],
+      "summary": "",
+      "content": [
+        {
+          "kind": "heading",
+          "text": "Our team proudly served as one of the creative forces behind the Youtube FanFest Thailand, providing mesmerizing CG Motion Backdrops for a lineup of talented artists. These included Atom Chanagun, the opening act, and the sensational URBOYTJ, who was making waves at the time."
+        },
+        {
+          "kind": "paragraph",
+          "text": "<span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span>"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Drawing inspiration from the theme “Villains with Thai Identity,” our team conceptualized a captivating backdrop featuring Thotsakan, the iconic demon king. Despite his villainous nature, Thotsakan’s unwavering love for Nang Sida resonated deeply with the audience. To further enhance the concert atmosphere, we incorporated vibrant neon elements into the character design, creating a visually stunning and immersive experience for all attendees. Here are some key highlights of our work:"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Collaboration with Youtube FanFest Thailand: We worked closely with the event organizers to ensure that our CG Motion Backdrops seamlessly complemented the overall theme and aesthetic of the festival."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Cinematic visuals: Our team leveraged cutting-edge animation techniques to create high-quality, visually captivating backdrops that transported the audience into another world."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Tailored designs for each artist: We took the time to understand each artist’s unique style and personality, crafting backdrops that perfectly complemented their performances."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Engaging storytelling: The backdrops incorporated subtle narratives and references to Thai folklore, adding an extra layer of depth and meaning to the overall experience."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Technical expertise: Our team’s technical expertise ensured that the backdrops were displayed flawlessly throughout the event, contributing to a smooth and seamless experience for all attendees."
+        },
+        {
+          "kind": "paragraph",
+          "text": "We are proud of our contribution to Youtube FanFest Thailand 2023 and look forward to continuing to push the boundaries of creative expression through innovative CG design and animation."
+        }
+      ],
+      "sourceUrl": "https://evernever.net/2024/03/16/youtube-urboytj/",
+      "featured": false
+    },
+    {
+      "_id": "455",
+      "title": "Dog n Joy : ความสุข 9 ประการ",
+      "slug": {
+        "current": "dog-n-joy"
+      },
+      "category": "all",
+      "categories": [],
+      "categoryLabels": [],
+      "coverImage": "/evernever/work-455.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/03/File_slide-01-768x432.png",
+        "https://evernever.net/wp-content/uploads/2024/03/File_slide-02-768x432.png",
+        "https://evernever.net/wp-content/uploads/2024/03/File_slide-03-768x432.png",
+        "https://evernever.net/wp-content/uploads/2024/03/File_slide-04-768x432.png",
+        "https://evernever.net/wp-content/uploads/2024/03/File_slide-05-768x432.png",
+        "https://evernever.net/wp-content/uploads/2024/03/File_slide-06-768x432.png"
+      ],
+      "videoUrl": "https://drive.google.com/file/d/1nFsH7_RmkBVYru1f2As0CStvjgbere_m/preview",
+      "videoUrls": [
+        "https://drive.google.com/file/d/1nFsH7_RmkBVYru1f2As0CStvjgbere_m/preview",
+        "https://drive.google.com/file/d/1I6V7lAbjCgYbL8z6VMOFlQPw2JclBDo7/preview"
+      ],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/03/16/dog-n-joy/",
+      "featured": false
+    },
+    {
+      "_id": "412",
+      "title": "DeeDo วาร์ปได้ วาร์ปไหนดี",
+      "slug": {
+        "current": "412"
+      },
+      "category": "all",
+      "categories": [],
+      "categoryLabels": [],
+      "coverImage": "/evernever/work-412.png",
+      "gallery": [
+        "https://evernever.net/wp-content/uploads/2024/03/deedo-onlineactivity-1-300x300.png"
+      ],
+      "videoUrl": null,
+      "videoUrls": [],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/03/16/412/",
+      "featured": false
+    },
+    {
+      "_id": "2624",
+      "title": "CDC – K.E Group",
+      "slug": {
+        "current": "cdc-k-e-group"
+      },
+      "category": "marketing-connsulting",
+      "categories": [
+        "marketing-connsulting"
+      ],
+      "categoryLabels": [
+        "Marketing Connsulting"
+      ],
+      "coverImage": "/evernever/work-2624.jpg",
+      "gallery": [],
+      "videoUrl": null,
+      "videoUrls": [],
+      "summary": "",
+      "content": [],
+      "sourceUrl": "https://evernever.net/2024/06/07/cdc-k-e-group/",
+      "featured": false
+    }
+  ],
+  "team": [
+    {
+      "image": "/evernever/team-0.jpg"
+    },
+    {
+      "image": "/evernever/team-1.jpg"
+    },
+    {
+      "image": "/evernever/team-2.jpg"
+    },
+    {
+      "image": "/evernever/team-3.jpg"
+    },
+    {
+      "image": "/evernever/team-4.png"
+    },
+    {
+      "image": "/evernever/team-5.jpg"
+    },
+    {
+      "image": "/evernever/team-6.jpg"
+    },
+    {
+      "image": "/evernever/team-7.jpg"
+    },
+    {
+      "image": "/evernever/team-8.jpg"
+    },
+    {
+      "image": "/evernever/team-9.jpg"
+    },
+    {
+      "image": "/evernever/team-10.jpeg"
+    },
+    {
+      "image": "/evernever/team-11.jpg"
+    }
+  ],
+  "teamText": [
+    "Our comprehensive suite of professionals caters to a diverse team, ranging from seasoned architects to renowned engineers.",
+    "Jack",
+    "Founder",
+    "Jane",
+    "KOLs / Influencer Specialist",
+    "Benz",
+    "Head of Creative (base art)",
+    "Wheel",
+    "Project Manager",
+    "AToile",
+    "Project Manager",
+    "Ploy",
+    "Strategic Planning",
+    "Pop",
+    "Account Executive",
+    "Rarin",
+    "Account Manager",
+    "Pond",
+    "Photographer",
+    "Parin",
+    "Senior Graphic Designer",
+    "Pree",
+    "Graphic Designer",
+    "Yuu",
+    "Graphic Designer"
+  ]
+}

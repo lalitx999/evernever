@@ -1,7 +1,17 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  /* config options here */
-};
+  images: {
+    remotePatterns: [
+      { protocol: 'https', hostname: 'cms-stage.evernever.net', pathname: '/wp-content/uploads/**' },
+      { protocol: 'https', hostname: 'cms.evernever.net', pathname: '/wp-content/uploads/**' },
+      {
+        protocol: 'https',
+        hostname: 'evernever.net',
+        pathname: '/**',
+      },
+    ],
+  },
+}
 
-export default nextConfig;
+export default nextConfig
